@@ -1,0 +1,26 @@
+GUID 2cf898aa3202445e9af1e1ba56a7da9c
+Type Barrel
+ID 15204
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Calibers 5
+Caliber_0 54
+Caliber_1 50
+Caliber_2 55
+Caliber_3 59
+Caliber_4 602
+
+Recoil_X 0.7
+Recoil_Y 0.7
+
+Damage 0.7
+
+Spread 0.8
+
+Volume 0.8
+
+Braked
+Silenced

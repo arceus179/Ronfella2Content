@@ -1,0 +1,29 @@
+GUID fe598b60ec544387882957b2c603e0bb
+Type Barrel
+ID 15213
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Calibers 8
+Caliber_0 61
+Caliber_1 51
+Caliber_2 52
+Caliber_3 58
+Caliber_4 60
+Caliber_5 53
+Caliber_6 57
+Caliber_7 601
+
+Recoil_X 0.7
+Recoil_Y 0.7
+
+Damage 0.9
+
+Spread 0.8
+
+Volume 0.8
+
+Braked
+Silenced

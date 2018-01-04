@@ -1,0 +1,24 @@
+GUID 73d1b73a175b468cb540e0d72740bd65
+Type Magazine
+ID 15121
+
+Size_X 2
+Size_Y 1
+Size_Z 0.25
+
+Amount 10
+Count_Min 2
+Count_Max 8
+
+Calibers 1
+Caliber_0 80
+
+Tracer 48
+
+Pellets 15
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 43
+Blueprint_0_Build 30

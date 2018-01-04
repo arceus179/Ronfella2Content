@@ -1,0 +1,13 @@
+GUID 95c43ed219fc4ffc92ac1a86d11d6415
+Type Barrel
+ID 6036
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 223
+
+Recoil_X 0.8
+Recoil_Y 0.8

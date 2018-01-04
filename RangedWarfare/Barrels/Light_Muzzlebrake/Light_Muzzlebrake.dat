@@ -1,0 +1,20 @@
+GUID 8bf5cf4e362f432fae0cf180d0058175
+Type Barrel
+ID 15212
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Calibers 8
+Caliber_0 61
+Caliber_1 51
+Caliber_2 52
+Caliber_3 58
+Caliber_4 60
+Caliber_5 53
+Caliber_6 57
+Caliber_7 601
+
+Recoil_X 0.3
+Recoil_Y 0.8

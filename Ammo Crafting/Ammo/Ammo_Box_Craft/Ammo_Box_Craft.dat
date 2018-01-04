@@ -1,0 +1,117 @@
+GUID 51381bbac6064720922a0bd2fe45718f
+Type Supply
+ID 14369
+
+Blueprints 9
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 14371
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 14372
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 14252
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Product 44
+Blueprint_0_Products 1
+Blueprint_0_Build 27
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 3
+Blueprint_1_Supply_0_ID 14371
+Blueprint_1_Supply_0_Amount 4
+Blueprint_1_Supply_1_ID 14373
+Blueprint_1_Supply_1_Amount 4
+Blueprint_1_Supply_2_ID 14252
+Blueprint_1_Supply_2_Amount 2
+Blueprint_1_Product 119
+Blueprint_1_Products 1
+Blueprint_1_Build 27
+
+Blueprint_2_Type Supply
+Blueprint_2_Supplies 3
+Blueprint_2_Supply_0_ID 14371
+Blueprint_2_Supply_0_Amount 4
+Blueprint_2_Supply_1_ID 14373
+Blueprint_2_Supply_1_Amount 4
+Blueprint_2_Supply_2_ID 14252
+Blueprint_2_Supply_2_Amount 3
+Blueprint_2_Product 1193
+Blueprint_2_Products 1
+Blueprint_2_Build 27
+
+Blueprint_3_Type Supply
+Blueprint_3_Supplies 3
+Blueprint_3_Supply_0_ID 14371
+Blueprint_3_Supply_0_Amount 4
+Blueprint_3_Supply_1_ID 14373
+Blueprint_3_Supply_1_Amount 4
+Blueprint_3_Supply_2_ID 14252
+Blueprint_3_Supply_2_Amount 2
+Blueprint_3_Product 43
+Blueprint_3_Products 1
+Blueprint_3_Build 27
+
+Blueprint_4_Type Supply
+Blueprint_4_Supplies 3
+Blueprint_4_Supply_0_ID 14371
+Blueprint_4_Supply_0_Amount 4
+Blueprint_4_Supply_1_ID 14373
+Blueprint_4_Supply_1_Amount 4
+Blueprint_4_Supply_2_ID 14252
+Blueprint_4_Supply_2_Amount 3
+Blueprint_4_Product 1192
+Blueprint_4_Products 1
+Blueprint_4_Build 27
+
+Blueprint_5_Type Supply
+Blueprint_5_Supplies 4
+Blueprint_5_Supply_0_ID 14371
+Blueprint_5_Supply_0_Amount 4
+Blueprint_5_Supply_1_ID 14373
+Blueprint_5_Supply_1_Amount 4
+Blueprint_5_Supply_2_ID 14252
+Blueprint_5_Supply_2_Amount 4
+Blueprint_5_Supply_3_ID 259
+Blueprint_5_Supply_3_Amount 10
+Blueprint_5_Product 1177
+Blueprint_5_Products 1
+Blueprint_5_Build 27
+
+Blueprint_6_Type Supply
+Blueprint_6_Supplies 4
+Blueprint_6_Supply_0_ID 14371
+Blueprint_6_Supply_0_Amount 4
+Blueprint_6_Supply_1_ID 14373
+Blueprint_6_Supply_1_Amount 4
+Blueprint_6_Supply_2_ID 14252
+Blueprint_6_Supply_2_Amount 4
+Blueprint_6_Supply_3_ID 1393
+Blueprint_6_Supply_3_Amount 1
+Blueprint_6_Product 1200
+Blueprint_6_Products 1
+Blueprint_6_Build 27
+
+Blueprint_7_Type Supply
+Blueprint_7_Supplies 3
+Blueprint_7_Supply_0_ID 36214
+Blueprint_7_Supply_0_Amount 2
+Blueprint_7_Supply_1_ID 36224
+Blueprint_7_Supply_1_Amount 4
+Blueprint_7_Supply_2_ID 14252
+Blueprint_7_Supply_2_Amount 2
+Blueprint_7_Product 113
+Blueprint_7_Products 1
+Blueprint_7_Build 27
+
+Blueprint_8_Type Supply
+Blueprint_8_Supplies 3
+Blueprint_8_Supply_0_ID 36214
+Blueprint_8_Supply_0_Amount 2
+Blueprint_8_Supply_1_ID 36224
+Blueprint_8_Supply_1_Amount 2
+Blueprint_8_Supply_2_ID 14252
+Blueprint_8_Supply_2_Amount 1
+Blueprint_8_Product 381
+Blueprint_8_Products 1
+Blueprint_8_Build 27

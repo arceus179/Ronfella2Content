@@ -1,0 +1,13 @@
+GUID fbab9972886341caa1c0d9f7d4dbe5e3
+Type Spawn
+ID 14330
+
+Roots 1
+Root_0_Spawn_ID 172
+Root_0_Weight 5
+
+Tables 2
+Table_0_Asset_ID 14362
+Table_0_Weight 5
+Table_1_Asset_ID 14363
+Table_1_Weight 3

@@ -1,0 +1,23 @@
+GUID bad88340ed5946e5a248caef7207bafc
+Type Throwable
+Rarity Rare
+Useable Throwable
+ID 13801
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Player_Damage 200
+Zombie_Damage 200
+Animal_Damage 200
+Barricade_Damage 65
+Structure_Damage 65
+Vehicle_Damage 114
+Resource_Damage 1089
+Object_Damage 500
+
+Range 6
+Explosion 34
+
+Explosive

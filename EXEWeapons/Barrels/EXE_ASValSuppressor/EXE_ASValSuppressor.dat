@@ -1,0 +1,14 @@
+GUID c3459cc8887d429c9b940b2975f1fa73
+Type Barrel
+ID 18014
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Calibers 1
+Caliber_0 101
+
+Braked
+Silenced
+Volume 0.4

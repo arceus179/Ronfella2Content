@@ -1,0 +1,8 @@
+GUID d16ef05088c5419eb4d18d703ee87b7d
+Type Medium
+ID 59906
+Interactability Binary_State
+Interactability_Delay 0.75
+Interactability_Hint Door
+Interactability_Editor Toggle
+Interactability_Nav On

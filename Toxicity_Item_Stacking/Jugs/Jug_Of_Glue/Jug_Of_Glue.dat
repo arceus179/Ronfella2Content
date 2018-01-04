@@ -1,0 +1,24 @@
+GUID 200c1679296f4350bb4040c0b29dcff9
+Type Supply
+Rarity Rare
+ID 14322
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Blueprints 2
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 70
+Blueprint_0_Supply_0_Amount 12
+Blueprint_0_Build 126
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 14322
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Product 70
+Blueprint_1_Products 12
+Blueprint_1_Build 126

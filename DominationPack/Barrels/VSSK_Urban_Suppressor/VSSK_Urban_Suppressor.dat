@@ -1,0 +1,14 @@
+GUID 97b24d381c914ea68c5ec3efd352bd52
+Type Barrel
+ID 6065
+
+Size_X 3
+Size_Y 1
+Size_Z 0.1
+
+Calibers 1
+Caliber_0 228
+
+Braked
+Silenced
+Volume 0.6

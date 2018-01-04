@@ -1,0 +1,16 @@
+GUID 06f737dcfa6645a9be2b0dddaa5289e5
+Type Barrel
+ID 6054
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Calibers 1
+Caliber_0 226
+
+Braked
+Silenced 
+Volume 0.6
+
+Damage 0.9

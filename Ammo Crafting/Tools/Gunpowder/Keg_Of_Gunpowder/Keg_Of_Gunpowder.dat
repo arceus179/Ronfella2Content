@@ -1,0 +1,24 @@
+GUID 0056a7ad2b4b4e879e29135d2996513a
+Type Supply
+Rarity Rare
+ID 36225
+
+Size_X 2
+Size_Y 2
+Size_Z 0.95
+
+Blueprints 2
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 14252
+Blueprint_0_Supply_0_Amount 12
+Blueprint_0_Build 27
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 36225
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Product 14252
+Blueprint_1_Products 12
+Blueprint_1_Build 27

@@ -1,0 +1,30 @@
+GUID 1de2cb00691e41ff9bbe3cbbbfe48b5d
+Type Barrel
+Rarity Rare
+ID 8009
+
+Size_X 1
+Size_Y 1
+Size_Z 0.12
+
+Calibers 1
+Caliber_0 127
+
+
+Braked
+Durability 0.1
+
+Recoil_X 0.6
+Recoil_Y 0.5
+
+Paintable
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Tool 76
+Blueprint_0_Level 2
+Blueprint_0_Skill Repair
+Blueprint_0_Build 27

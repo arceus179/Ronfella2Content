@@ -1,0 +1,24 @@
+GUID dc61c3b35dd84bc18e1070fb6b845a1f
+Type Supply
+Rarity Rare
+ID 14272
+
+Size_X 3
+Size_Y 2
+Size_Z 0.5
+
+Blueprints 2
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 14
+Blueprint_0_Supply_0_Amount 12
+Blueprint_0_Build 76
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 14272
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Product 14
+Blueprint_1_Products 12
+Blueprint_1_Build 76

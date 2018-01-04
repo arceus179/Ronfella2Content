@@ -1,0 +1,16 @@
+GUID c392bce177b445e090ffb72746a9024a
+Type Tactical
+ID 6092
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 1
+Caliber_0 231
+
+Recoil_X 0.4
+Recoil_Y 0.4
+
+Laser
+Spread 0.8

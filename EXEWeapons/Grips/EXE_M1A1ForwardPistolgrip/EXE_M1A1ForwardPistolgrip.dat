@@ -1,0 +1,15 @@
+GUID 1d843172b7374533b64c184ca6a5f05f
+Type Grip
+ID 18019
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Calibers 1
+Caliber_0 112
+
+Recoil_X 0.7
+Recoil_Y 0.7
+
+Shake 0.8

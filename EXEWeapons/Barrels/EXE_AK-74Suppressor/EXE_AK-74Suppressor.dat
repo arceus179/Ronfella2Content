@@ -1,0 +1,15 @@
+GUID 65b26a0f521f483bacfb53b87566c47f
+Type Barrel
+ID 18004
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Calibers 2
+Caliber_0 108
+Caliber_1 109
+
+Silenced
+Braked
+Volume 0.4

@@ -1,0 +1,35 @@
+GUID 7d55fee309d347abbebfa19e5aa49607
+Type Vehicle
+Rarity Legendary
+ID 4981
+
+Speed_Min -6
+Speed_Max 14
+
+Steer_Min 12
+Steer_Max 24
+
+Brake 40
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1500
+
+Health_Min 350
+Health_Max 450
+Health 1100
+
+Traction
+
+Explosion 20
+Invulnerable
+
+Turrets 1
+Turret_0_Seat_Index 1
+Turret_0_Item_ID 1394
+Turret_0_Yaw_Min -100
+Turret_0_Yaw_Max 100
+Turret_0_Pitch_Min 5
+Turret_0_Pitch_Max 105
+
+Asset_Bundle_Version 2

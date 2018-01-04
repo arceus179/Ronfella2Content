@@ -1,0 +1,26 @@
+GUID cc341cf614aa4db6a484fbacdc851679
+Type Vehicle
+Rarity Legendary
+ID 4982
+
+Speed_Min -6
+Speed_Max 14.5
+
+Steer_Min 24
+Steer_Max 48
+
+Brake 32
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 2600
+
+Health_Min 500
+Health_Max 850
+Health 1000
+
+Traction
+
+Invulnerable
+
+Explosion 20

@@ -1,0 +1,16 @@
+GUID 9061ec0f217149c1a4f2fcfdbcb5c49e
+Type Barrel
+ID 6119
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Calibers 1
+Caliber_0 224
+
+Braked
+Silenced 
+Volume 0.4
+
+Damage 0.9

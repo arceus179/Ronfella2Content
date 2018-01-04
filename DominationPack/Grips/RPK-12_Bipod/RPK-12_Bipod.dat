@@ -1,0 +1,26 @@
+GUID cc2c3dcfdeb84643a18cf7bcf9dbb025
+Type Grip
+ID 6117
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Calibers 1
+Caliber_0 234
+
+Recoil_X 0.8
+Recoil_Y 0.8
+
+Spread 0.8
+Shake 0.8
+
+Bipod
+
+Paintable
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 6118
+Blueprint_0_Build 27

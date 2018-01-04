@@ -1,0 +1,35 @@
+GUID 257bb8608cb9484181e1761c57256053
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 14274
+
+Size_X 3
+Size_Y 3
+Size_Z 0.6
+
+Health 300
+Range 4
+Radius 0.4
+Offset 0.5
+
+Explosion 19
+
+Blueprints 2
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 14272
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Supply_1_ID 14212
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 17
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 14274
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Product 14272
+Blueprint_1_Products 6
+Blueprint_1_Build 76

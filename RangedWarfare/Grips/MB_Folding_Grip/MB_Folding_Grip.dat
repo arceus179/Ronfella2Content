@@ -1,0 +1,14 @@
+GUID 41dc45f2cde3407680563e3f30662e9e
+Type Grip
+ID 15404
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Recoil_X 0.65
+Recoil_Y 0.65
+
+Shake 0.35
+
+Paintable

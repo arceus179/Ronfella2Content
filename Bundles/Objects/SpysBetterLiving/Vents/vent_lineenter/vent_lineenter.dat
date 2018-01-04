@@ -1,0 +1,12 @@
+GUID 28c0a33cf9bb4ad7861a34bb96109831
+Type Medium
+ID 59912
+
+Asset_Bundle_Version 2
+
+Interactability Binary_State
+Interactability_Delay 0.25
+Interactability_Reset 60
+Interactability_Hint Door
+Interactability_Editor Toggle
+

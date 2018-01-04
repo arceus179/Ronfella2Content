@@ -1,0 +1,17 @@
+GUID b1ee30082a6a4026a56c669a9027f4e0
+Type Grip
+ID 6082
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Calibers 2
+Caliber_0 229
+Caliber_1 230
+
+Recoil_X 0.8
+Recoil_Y 0.8
+
+Spread 0.8
+Shake 0.8

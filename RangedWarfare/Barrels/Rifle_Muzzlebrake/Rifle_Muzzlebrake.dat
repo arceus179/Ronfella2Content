@@ -1,0 +1,17 @@
+GUID c5f45fc0edf84da38cac8bed4ebe0459
+Type Barrel
+ID 15202
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Calibers 5
+Caliber_0 54
+Caliber_1 50
+Caliber_2 55
+Caliber_3 59
+Caliber_4 602
+
+Recoil_X 0.6
+Recoil_Y 0.8

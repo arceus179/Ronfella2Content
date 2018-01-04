@@ -1,0 +1,24 @@
+GUID 22dbe2c25d8441638079a746b9908d19
+Type Supply
+Rarity Rare
+ID 14342
+
+Size_X 2
+Size_Y 2
+Size_Z 0.58
+
+Blueprints 2
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 64
+Blueprint_0_Supply_0_Amount 12
+Blueprint_0_Build 27
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 14342
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Product 64
+Blueprint_1_Products 12
+Blueprint_1_Build 27

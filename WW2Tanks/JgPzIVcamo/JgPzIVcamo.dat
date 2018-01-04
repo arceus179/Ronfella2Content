@@ -1,0 +1,50 @@
+GUID b1a6fad251184cdeab7093d6426ab8dc
+Type Vehicle
+
+ID 703
+
+Rarity Rare
+Speed_Min -6
+Speed_Max 9
+Steer_Min 30
+Steer_Max 50
+Brake 32
+
+
+Fuel_Min 400
+Fuel_Max 600
+Fuel 2500
+
+Health_Min 1300
+Health_Max 1500
+Health 1500
+
+Exit 4
+Cam_Follow_Distance 7.5
+Crawler
+Traction
+LockMouse
+Cam_Driver_Offset +0.065
+Bumper_Multiplier 2
+
+Explosion 20
+
+Turrets 3
+Turret_0_Seat_Index 1
+Turret_0_Item_ID 1300
+Turret_0_Yaw_Min -16
+Turret_0_Yaw_Max 16
+Turret_0_Pitch_Min 70
+Turret_0_Pitch_Max 105
+Turret_1_Seat_Index 3
+Turret_1_Item_ID 333
+Turret_1_Yaw_Min -140
+Turret_1_Yaw_Max 140
+Turret_1_Pitch_Min 45
+Turret_1_Pitch_Max 105
+Turret_2_Seat_Index 2
+Turret_2_Item_ID 31414
+Turret_2_Yaw_Min -30
+Turret_2_Yaw_Max 30
+Turret_2_Pitch_Min 60
+Turret_2_Pitch_Max 105

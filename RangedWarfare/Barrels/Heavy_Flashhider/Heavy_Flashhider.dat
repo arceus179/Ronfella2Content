@@ -1,0 +1,14 @@
+GUID 058a82c50f5a49b9a984cc05dd863f7e
+Type Barrel
+ID 15222
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Calibers 3
+Caliber_0 70
+Caliber_1 65
+Caliber_2 66
+
+Braked

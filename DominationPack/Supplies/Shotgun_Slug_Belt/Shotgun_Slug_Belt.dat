@@ -1,0 +1,29 @@
+GUID f377bcf828bb42e8903643801cb91ecf
+Type Supply
+ID 6081
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Amount 16
+Count_Min 16
+Count_Max 16
+
+Blueprints 3
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 6081
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 6076
+Blueprint_1_Supply_1_ID 67
+Blueprint_1_Supply_1_Amount 3
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 113
+Blueprint_2_Supply_1_ID 67
+Blueprint_2_Supply_1_Amount 3
+Blueprint_2_Build 30

@@ -1,0 +1,38 @@
+GUID 7dc6ae4773d24b56a3a0d21f2c55a424
+
+
+
+
+
+
+
+
+Type Backpack
+Rarity Common
+Useable Clothing
+ID 33339
+
+Size_X 3
+Size_Y 3
+Size_Z 0.6
+
+
+Width 12
+Height 12
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 5
+Blueprint_0_Supply_0_ID 68
+Blueprint_0_Supply_0_Amount 12
+Blueprint_0_Supply_1_ID 66
+Blueprint_0_Supply_1_Amount 16
+Blueprint_0_Supply_2_ID 65
+Blueprint_0_Supply_2_Amount 12
+Blueprint_0_Supply_3_ID 69
+Blueprint_0_Supply_3_Amount 6
+Blueprint_0_Supply_4_ID 1281
+Blueprint_0_Supply_4_Amount 2
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27

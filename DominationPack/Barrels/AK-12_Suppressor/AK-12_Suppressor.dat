@@ -1,0 +1,19 @@
+GUID b9c05451aef64bdb9ac77f628ebb9c83
+Type Barrel
+ID 6104
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 4
+Caliber_0 233
+Caliber_1 234
+Caliber_2 235
+Caliber_3 236
+
+Braked
+Silenced 
+Volume 0.4
+
+Damage 0.9

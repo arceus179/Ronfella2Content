@@ -1,0 +1,17 @@
+GUID f80baa0259ec45ada7772a655eb58a22
+Type Grip
+Rarity Rare
+ID 8008
+
+Size_X 2
+Size_Y 2
+Size_Z 0.25
+
+Recoil_X 0.6
+Recoil_Y 0.4
+
+Spread 0.6
+Shake 0.4
+
+Bipod
+Paintable

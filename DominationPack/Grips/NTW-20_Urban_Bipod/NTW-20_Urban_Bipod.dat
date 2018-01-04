@@ -1,0 +1,18 @@
+GUID 07827fb01b254c65af0ed79d84e8d610
+Type Grip
+ID 6046
+
+Size_X 2
+Size_Y 2
+Size_Z 0.1
+
+Calibers 1
+Caliber_0 225
+
+Recoil_X 0.9
+Recoil_Y 0.9
+
+Spread 0.9
+Shake 0.9
+
+Bipod

@@ -1,0 +1,25 @@
+GUID d7f2982577f64c359d26b6fca23a40fd
+Type Mask
+Rarity Legendary
+Useable Clothing
+ID 4953
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Quality_Min 150
+Quality_Max 500
+
+Armor 0.65
+
+Proof_Radiation
+
+Hair
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 1270
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 32

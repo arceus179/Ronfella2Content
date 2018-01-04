@@ -1,0 +1,38 @@
+GUID 350f8d17a17f4497b85d0db8bec45c6d
+Type Vehicle
+
+Rarity Epic
+ID 705
+Speed_Min -5
+Speed_Max 6
+Steer_Min 40
+Steer_Max 60
+Brake 32
+
+
+Fuel_Min 400
+Fuel_Max 600
+Fuel 2500
+
+
+Health_Min 4600
+Health_Max 4900
+Health 4900
+
+Exit 4
+Cam_Follow_Distance 14
+Crawler
+Traction
+LockMouse
+Cam_Driver_Offset -0.065
+Bumper_Multiplier 15
+
+Explosion 20
+
+Turrets 1
+Turret_0_Seat_Index 1
+Turret_0_Item_ID 1300
+Turret_0_Yaw_Min -8888
+Turret_0_Yaw_Max 8888
+Turret_0_Pitch_Min 70
+Turret_0_Pitch_Max 105

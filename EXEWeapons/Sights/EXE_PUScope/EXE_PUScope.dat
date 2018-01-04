@@ -1,0 +1,14 @@
+GUID bf6c55fc8e6043889c79d809ead66e53
+Type Sight
+ID 18031
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Calibers 2
+Caliber_0 106
+Caliber_1 104
+
+Spread 0.9
+Zoom 6

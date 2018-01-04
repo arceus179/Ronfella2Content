@@ -1,0 +1,14 @@
+GUID ae4eea9338e544e0bd25fdcb61de1f60
+Type Barrel
+ID 18001
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Calibers 1
+Caliber_0 102
+
+Braked
+Silenced
+Volume 0.5

@@ -1,0 +1,19 @@
+GUID 17573cf7c51548cda86272026160ba8c
+Type Barrel
+ID 6091
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Calibers 1
+Caliber_0 231
+
+Braked
+Silenced 
+Volume 0.3
+
+Recoil_X 0.7
+Recoil_Y 0.7
+
+Damage 0.9

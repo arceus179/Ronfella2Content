@@ -1,0 +1,29 @@
+GUID f0d92a79afd14365b839a351e65e0ffc
+Type Supply
+Rarity Rare
+ID 14368
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Blueprints 2
+
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 285
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 67
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Tool 76
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 12
+
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 14368
+Blueprint_1_Product 285
+Blueprint_1_Products 2
+Blueprint_1_Tool 76
+Blueprint_1_Build 12

@@ -1,0 +1,23 @@
+GUID f2f5cb3ed58b4e8587ed25ca6f82be31
+Type Water
+Rarity Rare
+Useable Consumeable
+ID 14192
+
+Size_X 1
+Size_Y 1
+Size_Z 0.37
+
+Vision 50
+
+Blueprints 1
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 75
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 332
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 12
+
+Virus 20

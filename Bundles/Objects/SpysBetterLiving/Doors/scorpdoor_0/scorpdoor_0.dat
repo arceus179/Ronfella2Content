@@ -1,0 +1,8 @@
+GUID b19f85e746574cbca86a11ecbac458fa
+Type Medium
+ID 59904
+Interactability Binary_State
+Interactability_Delay 2.25
+Interactability_Hint Door
+Interactability_Power Toggle
+Interactability_Nav Off

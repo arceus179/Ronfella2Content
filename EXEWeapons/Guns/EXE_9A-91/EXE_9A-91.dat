@@ -1,0 +1,82 @@
+GUID 77b2fd8e89774cb2aaaa28ba2d0f190f
+Type Gun
+Useable Gun
+Slot Secondary
+ID 18000
+
+Size_X 3
+Size_Y 2
+Size_Z 0.55
+
+Magazine 18002
+Barrel 18001
+
+Hook_Sight
+Hook_Barrel
+Hook_Tactical
+
+Ammo_Min 10
+Ammo_Max 20
+
+Safety
+Semi
+Auto
+
+Caliber 102
+
+Range 80
+Firerate 3
+Action Trigger
+
+Player_Damage 55
+Player_Leg_Multiplier 1.0
+Player_Arm_Multiplier 1.0
+Player_Spine_Multiplier 1.5
+Player_Skull_Multiplier 1.75
+
+Zombie_Damage 55
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 1.5
+Zombie_Skull_Multiplier 3.0
+
+Animal_Damage 55
+Animal_Leg_Multiplier 1.0
+Animal_Spine_Multiplier 1.5
+Animal_Skull_Multiplier 1.75
+
+Barricade_Damage 45
+Structure_Damage 35
+Vehicle_Damage 40
+Resource_Damage 20
+
+Durability 0.1
+
+Spread_Aim 0.125
+Spread_Hip 0.175
+
+Recoil_Min_X -2
+Recoil_Min_Y 2
+Recoil_Max_X 2
+Recoil_Max_Y 4
+
+Recover_X 0.65
+Recover_Y 0.65
+
+Shake_Min_X -0.001
+Shake_Min_Y 0.001
+Shake_Min_Z -0.005
+Shake_Max_X 0.001
+Shake_Max_Y -0.001
+Shake_Max_Z -0.01
+
+Muzzle 3
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 7
+Blueprint_0_Tool 76
+Blueprint_0_Build 27
+Bypass_Hash_Verification

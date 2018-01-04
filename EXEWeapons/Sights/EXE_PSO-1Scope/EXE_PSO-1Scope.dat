@@ -1,0 +1,19 @@
+GUID 319d36cc5bb640b1a7bc968a22553f33
+Type Sight
+ID 18029
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Calibers 7
+Caliber_0 101
+Caliber_1 105
+Caliber_2 107
+Caliber_3 108
+Caliber_4 110
+Caliber_5 111
+Caliber_6 117
+
+Spread 0.8
+Zoom 8

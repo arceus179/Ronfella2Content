@@ -1,0 +1,13 @@
+GUID f0539e99cb3f487c927c8631240796d7
+Type Barrel
+ID 18020
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Calibers 1
+Caliber_0 112
+
+Spread 0.9
+Volume 1.2

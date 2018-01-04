@@ -1,0 +1,30 @@
+GUID 5307faf994b94dcba25deea56977c8b9
+Type Magazine
+ID 6089
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Amount 20
+Count_Min 15
+Count_Max 18
+
+Calibers 1
+Caliber_0 231
+
+Tracer 48
+
+Blueprints 3
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 44
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 6089
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 6090
+Blueprint_2_Build 30

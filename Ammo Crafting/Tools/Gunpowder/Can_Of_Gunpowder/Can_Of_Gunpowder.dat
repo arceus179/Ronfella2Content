@@ -1,0 +1,18 @@
+GUID e442882a4e2f4c5a9bf6a26c01d7fc74
+Type Supply
+Rarity Rare
+ID 14252
+
+Size_X 1
+Size_Y 1
+Size_Z 0.18
+
+Blueprints 1
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 73
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Product 14252
+Blueprint_0_Products 2
+Blueprint_0_Build 27

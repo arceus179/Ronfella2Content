@@ -1,0 +1,15 @@
+GUID 307ed71468424bdd8cf39aa67e8edd50
+Type Barrel
+ID 15221
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Calibers 3
+Caliber_0 70
+Caliber_1 65
+Caliber_2 66
+
+Recoil_X 0.6
+Recoil_Y 0.8

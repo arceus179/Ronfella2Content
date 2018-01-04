@@ -1,0 +1,30 @@
+GUID 24d1136f6cd942c6b14501f9155221a1
+Type Magazine
+ID 6045
+
+Size_X 2
+Size_Y 1
+Size_Z 0.1
+
+Amount 3
+Count_Min 1
+Count_Max 3
+
+Calibers 1
+Caliber_0 225
+
+Tracer 51
+
+Blueprints 3
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 1192
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 6045
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 6049
+Blueprint_2_Build 30

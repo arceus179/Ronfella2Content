@@ -1,0 +1,32 @@
+GUID 023f1bbec4b94c60b1f831dadbec5090
+Type Vehicle
+Rarity Legendary
+ID 4983
+
+Speed_Min -4
+Speed_Max 20
+
+Steer_Min 38
+Steer_Max 19
+
+Fuel_Min 250
+Fuel_Max 1000
+Fuel 1000
+
+Health_Min 500
+Health_Max 950
+Health 950
+
+Exit 3
+
+Engine Boat
+
+Explosion 20
+
+Turrets 1
+Turret_0_Seat_Index 1
+Turret_0_Item_ID 1394
+Turret_0_Yaw_Min -130
+Turret_0_Yaw_Max 130
+Turret_0_Pitch_Min 45
+Turret_0_Pitch_Max 95

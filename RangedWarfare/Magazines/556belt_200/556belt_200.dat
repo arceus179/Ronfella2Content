@@ -1,0 +1,34 @@
+GUID 87b342352600478c91a14239b405418c
+Type Magazine
+ID 15151
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Amount 200
+Count_Min 62
+Count_Max 151
+
+Calibers 1
+Caliber_0 65
+
+Tracer 48
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 43
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 15151
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 6
+Blueprint_2_Build 30
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 133
+Blueprint_3_Build 30

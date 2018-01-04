@@ -1,0 +1,36 @@
+GUID e0573a9ecc274e68800167ecd5f83b80
+Type Vehicle
+Rarity Legendary
+ID 4980
+
+Speed_Min -2
+Speed_Max 25
+
+Steer_Min 18
+Steer_Max 8
+
+Fuel 2000
+
+Health_Min 800
+Health_Max 1300
+Health 1000
+
+Exit 5
+
+Cam_Follow_Distance 7.5
+
+LockMouse
+Engine Helicopter
+
+Explosion 20
+Invulnerable
+
+Turrets 1
+Turret_0_Seat_Index 1
+Turret_0_Item_ID 1394
+Turret_0_Yaw_Min -30
+Turret_0_Yaw_Max 30
+Turret_0_Pitch_Min 60
+Turret_0_Pitch_Max 95
+
+Asset_Bundle_Version 2

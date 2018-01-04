@@ -1,0 +1,13 @@
+GUID 52f1338826da4b09bb7b6def7ecabe85
+Type Barrel
+ID 6094
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Calibers 1
+Caliber_0 231
+
+Recoil_X 0.8
+Recoil_Y 0.8

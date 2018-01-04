@@ -1,0 +1,14 @@
+GUID 80e2d728affd42d3854c99194b3794f0
+Type Barrel
+ID 6070
+
+Size_X 3
+Size_Y 1
+Size_Z 0.1
+
+Calibers 1
+Caliber_0 228
+
+Braked
+Silenced
+Volume 0.6
