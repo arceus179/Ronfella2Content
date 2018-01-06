@@ -30,8 +30,12 @@ LockMouse
 Engine Helicopter
 
 Traction
+Trunk_Storage_X 6
+Trunk_Storage_Y 6
 
 Explosion 20
+Invulnerable
+Tires_Invulnerable
 
 Turrets 1
 Turret_0_Seat_Index 1
