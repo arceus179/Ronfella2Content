@@ -15,7 +15,7 @@ Caliber_0 50
 
 Tracer 48
 
-Blueprints 3
+Blueprints 6
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
 Blueprint_0_Supply_0_ID 43
@@ -28,3 +28,15 @@ Blueprint_2_Type Ammo
 Blueprint_2_Supplies 1
 Blueprint_2_Supply_0_ID 17
 Blueprint_2_Build 30
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 15141
+Blueprint_3_Build 30
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 15148
+Blueprint_4_Build 30
+Blueprint_5_Type Ammo
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 15147
+Blueprint_5_Build 30
