@@ -1,5 +1,6 @@
 GUID 73d1b73a175b468cb540e0d72740bd65
 Type Magazine
+Rarity Uncommon
 ID 15121
 
 Size_X 2
@@ -17,8 +18,12 @@ Tracer 48
 
 Pellets 15
 
-Blueprints 1
+Blueprints 2
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
 Blueprint_0_Supply_0_ID 43
 Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 15121
+Blueprint_1_Build 30

@@ -1,5 +1,6 @@
 GUID 2cf898aa3202445e9af1e1ba56a7da9c
 Type Barrel
+Rarity Legendary
 ID 15204
 
 Size_X 2
@@ -16,7 +17,7 @@ Caliber_4 602
 Recoil_X 0.7
 Recoil_Y 0.7
 
-Damage 0.7
+Damage 0.85
 
 Spread 0.8
 

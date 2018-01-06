@@ -1,5 +1,6 @@
 GUID b3a88b96168344839c08a1cf3a20620a
 Type Gun
+Rarity Epic
 Useable Gun
 Slot Primary
 ID 15601
@@ -33,7 +34,7 @@ Player_Damage 40
 Player_Leg_Multiplier 0.7
 Player_Arm_Multiplier 0.7
 Player_Spine_Multiplier 0.8
-Player_Skull_Multiplier 2.4
+Player_Skull_Multiplier 1.4
 
 Zombie_Damage 99
 Zombie_Leg_Multiplier 0.3

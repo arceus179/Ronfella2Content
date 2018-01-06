@@ -30,7 +30,7 @@ Range 125
 Firerate 4
 Action Trigger
 
-Player_Damage 25
+Player_Damage 30
 Player_Leg_Multiplier 0.6
 Player_Arm_Multiplier 0.6
 Player_Spine_Multiplier 0.8
@@ -86,7 +86,7 @@ Blueprint_0_Skill Repair
 Blueprint_0_Build 27
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 1027
+Blueprint_1_Supply_0_ID 4983
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27

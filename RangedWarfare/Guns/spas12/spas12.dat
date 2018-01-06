@@ -1,5 +1,6 @@
 GUID 1e02c25ee87946f1aeb89c8f0f46a966
 Type Gun
+Rarity Epic
 Useable Gun
 Slot Primary
 ID 15022
@@ -78,7 +79,7 @@ Blueprint_0_Tool 76
 Blueprint_0_Build 27
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 112
+Blueprint_1_Supply_0_ID 15022
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27

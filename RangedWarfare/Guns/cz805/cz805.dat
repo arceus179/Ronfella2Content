@@ -1,5 +1,6 @@
 GUID 49da919c60714007b29d66c278d3935d
 Type Gun
+Rarity Rare
 Useable Gun
 Slot Primary
 ID 15031
@@ -33,7 +34,7 @@ Player_Damage 40
 Player_Leg_Multiplier 0.7
 Player_Arm_Multiplier 0.7
 Player_Spine_Multiplier 0.8
-Player_Skull_Multiplier 2.4
+Player_Skull_Multiplier 1.4
 
 Zombie_Damage 99
 Zombie_Leg_Multiplier 0.3
@@ -84,7 +85,7 @@ Blueprint_0_Skill Repair
 Blueprint_0_Build 27
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 15001
+Blueprint_1_Supply_0_ID 15031
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27

@@ -1,5 +1,6 @@
 GUID d3eba2bb67474eae9641c159f1aece31
 Type Gun
+Rarity Epic
 Useable Gun
 Slot Primary
 ID 15064
@@ -30,7 +31,7 @@ Player_Damage 70
 Player_Leg_Multiplier 0.6
 Player_Arm_Multiplier 0.6
 Player_Spine_Multiplier 0.8
-Player_Skull_Multiplier 2
+Player_Skull_Multiplier 1.4
 
 Zombie_Damage 99
 Zombie_Leg_Multiplier 0.5
@@ -81,7 +82,7 @@ Blueprint_0_Skill Repair
 Blueprint_0_Build 27
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 4
+Blueprint_1_Supply_0_ID 15064
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27

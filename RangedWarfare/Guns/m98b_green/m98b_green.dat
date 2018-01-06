@@ -1,5 +1,6 @@
 GUID bfed97b6d4a643dca495114030da090c
 Type Gun
+Rarity Legendary
 Useable Gun
 Slot Primary
 ID 15076
@@ -32,7 +33,7 @@ Player_Damage 95
 Player_Leg_Multiplier 0.6
 Player_Arm_Multiplier 0.6
 Player_Spine_Multiplier 0.8
-Player_Skull_Multiplier 2
+Player_Skull_Multiplier 1.8
 
 Zombie_Damage 200
 Zombie_Leg_Multiplier 0.3
@@ -83,7 +84,7 @@ Blueprint_0_Skill Repair
 Blueprint_0_Build 27
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 15072
+Blueprint_1_Supply_0_ID 15076
 Blueprint_1_Product 67
 Blueprint_1_Products 4
 Blueprint_1_Build 27

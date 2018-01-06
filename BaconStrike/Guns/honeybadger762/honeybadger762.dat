@@ -1,5 +1,6 @@
 GUID b12071e30acf42458a32f2eb4b536a51
 Type Gun
+Rarity Legendary
 Useable Gun
 Slot Secondary
 ID 5001
@@ -15,7 +16,6 @@ Barrel 5402
 Hook_Sight
 Hook_Tactical
 Hook_Grip
-Hook_Barrel
 
 Ammo_Min 10
 Ammo_Max 17

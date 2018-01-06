@@ -1,5 +1,6 @@
 GUID 04b26f913a4541359d5dc736f5714112
 Type Gun
+Rarity Legendary
 Useable Gun
 Slot Primary
 ID 5008
@@ -28,9 +29,9 @@ Range 350
 Firerate 55
 Action Bolt
 
-Player_Damage 99
-Player_Leg_Multiplier 0.6
-Player_Arm_Multiplier 0.6
+Player_Damage 150
+Player_Leg_Multiplier 0.7
+Player_Arm_Multiplier 0.7
 Player_Spine_Multiplier 0.8
 Player_Skull_Multiplier 1.1
 

@@ -1,5 +1,6 @@
 GUID a8d08d335eaf4181804beb88e6ef7a0a
 Type Gun
+Rarity Rare
 Useable Gun
 Slot Primary
 ID 15044
@@ -32,7 +33,7 @@ Player_Damage 40
 Player_Leg_Multiplier 0.7
 Player_Arm_Multiplier 0.6
 Player_Spine_Multiplier 0.8
-Player_Skull_Multiplier 2.5
+Player_Skull_Multiplier 1.4
 
 Zombie_Damage 99
 Zombie_Leg_Multiplier 0.5
@@ -83,7 +84,7 @@ Blueprint_0_Skill Repair
 Blueprint_0_Build 27
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 15033
+Blueprint_1_Supply_0_ID 15044
 Blueprint_1_Product 67
 Blueprint_1_Products 5
 Blueprint_1_Build 27
