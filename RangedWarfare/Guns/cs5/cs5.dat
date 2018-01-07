@@ -40,7 +40,7 @@ Zombie_Damage 150
 Zombie_Leg_Multiplier 0.3
 Zombie_Arm_Multiplier 0.3
 Zombie_Spine_Multiplier 0.6
-Zombie_Skull_Multiplier 2
+Zombie_Skull_Multiplier 1.3
 
 Animal_Damage 99
 Animal_Leg_Multiplier 0.6
