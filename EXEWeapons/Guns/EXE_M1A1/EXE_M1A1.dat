@@ -1,4 +1,5 @@
 GUID 0035c48458cf480885b4df6ed05a01c6
+Rarity Rare
 Type Gun
 Useable Gun
 Slot Primary
@@ -15,7 +16,6 @@ Grip 18018
 Hook_Sight
 Hook_Barrel
 Hook_Tactical
-Hook_Grip
 
 Ammo_Min 10
 Ammo_Max 30

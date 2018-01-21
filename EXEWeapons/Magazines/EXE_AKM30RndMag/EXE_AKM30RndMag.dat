@@ -1,4 +1,5 @@
 GUID d0fdb2d74b3d490f8b5fe52c90e56510
+Rarity Rare
 Type Magazine
 ID 18009
 
@@ -10,8 +11,12 @@ Amount 30
 Count_Min 10
 Count_Max 30
 
-Calibers 1
-Caliber_0 107
+Calibers 5
+Caliber_0 108
+Caliber_1 109
+Caliber_2 110
+Caliber_3 111
+Caliber_4 107
 
 Tracer 48
 

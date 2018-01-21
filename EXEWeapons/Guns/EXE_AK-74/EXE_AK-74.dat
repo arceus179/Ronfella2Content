@@ -1,4 +1,5 @@
 GUID 6c04aa2217bb4a84b7246606b72dd154
+Rarity Rare
 Type Gun
 Useable Gun
 Slot Primary
@@ -8,8 +9,7 @@ Size_X 4
 Size_Y 2
 Size_Z 0.55
 
-Magazine 18005
-Barrel 18004
+Magazine 18009
 
 Hook_Sight
 Hook_Tactical
