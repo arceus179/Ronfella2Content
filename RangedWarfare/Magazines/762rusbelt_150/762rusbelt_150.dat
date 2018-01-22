@@ -19,7 +19,7 @@ Tracer 48
 Blueprints 4
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 43
+Blueprint_0_Supply_0_ID 119
 Blueprint_0_Build 30
 Blueprint_1_Type Ammo
 Blueprint_1_Supplies 1
@@ -27,9 +27,9 @@ Blueprint_1_Supply_0_ID 15153
 Blueprint_1_Build 30
 Blueprint_2_Type Ammo
 Blueprint_2_Supplies 1
-Blueprint_2_Supply_0_ID 6
+Blueprint_2_Supply_0_ID 123
 Blueprint_2_Build 30
 Blueprint_3_Type Ammo
 Blueprint_3_Supplies 1
-Blueprint_3_Supply_0_ID 133
+Blueprint_3_Supply_0_ID 127
 Blueprint_3_Build 30
