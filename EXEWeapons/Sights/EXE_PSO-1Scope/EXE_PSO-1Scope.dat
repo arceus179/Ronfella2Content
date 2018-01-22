@@ -8,13 +8,13 @@ Size_Y 1
 Size_Z 0.2
 
 Calibers 7
-Caliber_0 101
-Caliber_1 105
-Caliber_2 107
-Caliber_3 108
-Caliber_4 110
-Caliber_5 111
-Caliber_6 117
+Caliber_0 18001
+Caliber_1 18005
+Caliber_2 18007
+Caliber_3 18008
+Caliber_4 18010
+Caliber_5 18011
+Caliber_6 18017
 
 Spread 0.8
 Zoom 8
