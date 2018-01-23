@@ -52,7 +52,7 @@ Resource_Damage 20
 Durability 0.1
 
 Spread_Aim 0.8
-Spread_Hip 0.1
+Spread_Hip 0.2
 
 Recoil_Min_X -10
 Recoil_Min_Y 35
